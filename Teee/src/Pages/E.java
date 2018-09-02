@@ -7,6 +7,7 @@ public class E {
 System.out.println("Sade wade");
 System.out.println("Sade wade sade");
 System.out.println("macd");
+System.out.println("macd");
 	}
 
 }
