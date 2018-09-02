@@ -6,6 +6,7 @@ public class E {
 		// TODO Auto-generated method stub
 System.out.println("Sade wade");
 System.out.println("Sade wade sade");
+System.out.println("macd");
 	}
 
 }
